@@ -6,9 +6,6 @@ A minimal DynamoDB-backed mailing list package for Go.
 
 Create a DynamoDB table with a __Partition Key__ of "newsletter", and a __Sort Key__ of "email".
 
-## Links
-
-Check out the [news-api](https://github.com/drylikov/news-api) for an HTTP API handling subscriptions.
 
 ---
 
