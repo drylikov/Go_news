@@ -63,4 +63,3 @@ Create a DynamoDB table with a __Partition Key__ of "newsletter", and a __Sort K
 
 
 
-
